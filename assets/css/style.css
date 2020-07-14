@@ -1,0 +1,133 @@
+h3.header{margin-bottom: 10rem;}
+
+center a.light{text-decoration: none;color: black;}
+
+center a{margin-top: -4.3rem;margin-left: 20rem;}
+
+center{margin-left: -6rem;}
+
+.light{background-color: lightgrey;}
+
+.light .upper{margin-top: 2rem; margin-bottom: 2rem;}
+
+.light .lower{margin-bottom: 4rem;}
+
+.light .middle{margin-bottom: 2.6rem;}
+
+.footcard{margin-top: 10rem;background-color: lightgrey;}
+
+.links{margin-top: 16.6rem;}
+
+.form-control{width: auto;text-align: center;}
+
+.steps{margin-top: 6rem;}
+
+.box1{
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    left: 183px;
+    top: 100px;
+    
+    background: #C4C4C4;
+    border-radius: 10px;
+ };
+
+.box2{}
+
+.box3{
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    right: 350px;
+    top: 160px;
+    
+    background: #C4C4C4;
+    border-radius: 10px;
+ };
+
+.box4{
+
+}
+
+ .box5{
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    left: 350px;
+    top: 450px;
+    
+    background: #C4C4C4;
+    border-radius: 10px;
+ }
+
+ .box6{}
+
+ .box7{
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    right: 200px;
+    top: 500px;
+    
+    background: #C4C4C4;
+    border-radius: 10px;
+ }
+
+ .box8{}
+
+ @media only screen and (max-width: 600px) {
+    .box1{
+        position: absolute;
+        width: 110px;
+        height: 110px;
+        left: 20px;
+        top: 90px;
+        
+        background: #C4C4C4;
+        border-radius: 10px;
+     };
+    
+    .box2{}
+    
+    .box3{
+        position: absolute;
+        width: 110px;
+        height: 110px;
+        right: 5px;
+        top: 240px;
+        
+        background: #C4C4C4;
+        border-radius: 10px;
+     };
+    
+    .box4{
+    
+    }
+    
+     .box5{
+        position: absolute;
+        width: 110px;
+        height: 110px;
+        left: 30px;
+        top: 430px;
+        
+        background: #C4C4C4;
+        border-radius: 10px;
+     }
+    
+     .box6{}
+    
+     .box7{
+        position: absolute;
+        width: 110px;
+        height: 110px;
+        right: 10px;
+        top: 480px;
+        
+        background: #C4C4C4;
+        border-radius: 10px;
+     }
+    
+     .box8{}
+ }
